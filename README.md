@@ -1,11 +1,4 @@
-Welcome to my main Github page.  I'm Dave Sisk, and I've been a data and database professional for over 20 years now. I've worked with every common database platform
-at least once (some more), and with a few you've probably never heard of.  Open-source PostgreSQL is one of my favorites, and I'm a big supporter of this new breed of
-columnar analytics databases on the market, including Snowflake (you'll find a tool in one of my repos for deactiving users quickly), Vertica, and open-source 
-Clickhouse. I've worked about equally with OLTP systems and Data Warehousing/BI/Analytics systems over the years, including Big Data analytics.
-
-In mid-2022, I completed a Master's degree in Data Science with the intent of pivoting my focus more toward data science, machine learning, and analytics in 
-general. Over time I'll add repos for research I'm doing into fraud and anomaly detection, plus likely some work with a few of the machine learning technologies 
-that scale well enough to accomodate big data....look for some future repos with content around Apache MADlib, Spark, PostgresML, and possibly others.
+Welcome to my main Github page.  I'm Dave Sisk, and I've been a data and database professional for over 20 years now, historically focused on data warehousing and database infrastructure. In mid-2022, I completed a Master's degree in Data Science, and have proceeded to pivot my focus toward vector search, Generative AI, and other topics in the realm of analytics, data science, machine learning, and AI. Technologies I really enjoy working with include Databricks, Snowflake, JupyterLab, Python, SciKit-Learn, Pandas, PySpark, SparkSQL, ANSI SQL, LangChain, various vector datastores...the list goes on and on. Feel free to browse around my repos...you'll find some interesting examples. 
 
 Feel free to reach out to me via my email...it's this account name at gmail.com.
 
